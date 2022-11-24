@@ -82,3 +82,13 @@ a {
     padding-top: 16px;
     padding-bottom: 18px;
 }
+.nav-lang-list {
+    display: flex;
+
+}
+.nav-lang-link {
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
